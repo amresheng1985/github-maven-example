@@ -32,6 +32,7 @@ $ mvn clean install
 The compiled, source, and Javadoc JAR files will be uploaded as downloads [here](https://github.com/kevinsawicki/github-maven-example/downloads).
 
 # Using the site plugin 
+# this sample changes for build creation
 
 ```
 $ cd github-maven-example/example
